@@ -1,6 +1,6 @@
-# Nome schema
+# MC-HOL24AELFR
 ![electric_panel_icon](res/el_icon_4.jpg)
-## Schema per quadro elettrico per ascensore
+## Schema per quadro elettrico per ascensore home lift
 
 ### Scheda controllo
 MCPX2015-SMD - PER16B-SMD
