@@ -1,11 +1,11 @@
 {
-  "name": "schematic",
-  "version": "1.0.0",
-  "description": "A schematic",
-  "homepage": "https://gitlab.com/eca-automs/schematics/{{ schematic name }}",
+  "name": "MC-HOL24AELFR",
+  "version": "0.0.0",
+  "description": "",
+  "homepage": "https://github.com/eca-automs/MC-HOL24AELFR",
   "keywords": [],
   "bugs": {
-    "url": "https://gitlab.com/eca-automs/schematics/{{ schematic name }}/issues",
+    "url": "https://github.com/eca-automs/MC-HOL24AELFR/issues",
     "email": ""
   },
   "scripts": {
@@ -16,9 +16,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.com:eca-automs/schematics/{{ schematic name }}.git"
+    "url": "git@github.com:eca-automs/MC-HOL24AELFR.git"
   },
-  "author": "",
+  "author": "Eca di Belardi Roberto",
   "contributors": [],
   "license": "GPL-3.0",
   "devDependencies": {
